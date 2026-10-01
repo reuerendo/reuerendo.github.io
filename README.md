@@ -8,11 +8,13 @@ We respect your privacy. The hotter App is designed to operate locally on your d
 
 # 2. Health Connect Integration
 
-The App requests access to read and/or write data to Google Health Connect to provide its core features.
+The App requests access to read and/or write data to Google Health Connect to provide its core features. In particular, the App reads heart rate data from Health Connect in order to display a heart rate chart for your workouts.
 
-No Data Transmission to Our Servers: We do not collect, read, or transmit your health data to our own servers or any third parties. All processing of health data occurs locally on your device.
+**No Data Transmission by the App:** We do not collect, read, or transmit your health data to our own servers or to any third parties. All processing of health data occurs locally on your device. The only exception is the optional Google backup described below, which is initiated by you and not by us.
 
-Limited Use Disclosure: The use of information received from Health Connect will strictly adhere to the Health Connect Permissions policy, including the Limited Use requirements. We only use this data to display it to you within the App or to save your App's data into Health Connect.
+**Local Storage and Optional Google Backup:** Health data received from Health Connect is stored locally on your device in the App's database. If you choose to enable Google backup on your device, the App's data, including this health data, may be uploaded to your Google Account as part of the standard Android backup. This happens only at your choice, and you can turn it off at any time in your device's backup settings. Backups are created and stored by Google, and we do not have access to them. Google's handling of backed-up data is governed by Google's Privacy Policy.
+
+**Limited Use Disclosure:** The use of information received from Health Connect will strictly adhere to the Health Connect Permissions policy, including the Limited Use requirements. We only use this data to display it to you within the App or to save your App's data into Health Connect. We do not sell this data and do not use it for advertising.
 
 # 3. Google Drive Backup
 
